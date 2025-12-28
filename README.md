@@ -8,4 +8,4 @@
 
 ## 🐍 Snake Eating My Contributions
 
-![snake gif](https://raw.githubusercontent.com/mtchms/mtchms/output/dist/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/mtchms/mtchms/output/github-snake-dark.svg)
