@@ -1,13 +1,8 @@
 ### Hi, I'm Leonid
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+developer;MLOps+%26+LLMOps;NLP+%2F+text2image)](https://git.io/typing-svg)
 
-![contact](https://raw.githubusercontent.com/mtchms/mtchms/main/contact-telegram.svg)
-
-</div>
-
+![Contact Telegram](https://raw.githubusercontent.com/mtchms/mtchms/main/contact-telegram.svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtchms&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtchms&theme=github_dark)
