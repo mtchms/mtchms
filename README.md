@@ -1,7 +1,8 @@
 # Hi there 👋
 
 <h2 align="center">I do NLP and MLOps</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Data+Science+developer;NLP+%2F+ML+Engineer)](https://git.io/typing-svg)[web:11]
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Data+Science+developer;NLP+%2F+ML+Engineer)](https://git.io/typing-svg)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtchms&theme=github_dark)
