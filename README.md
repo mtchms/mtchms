@@ -1,4 +1,4 @@
-### Hi, I'm Leonid
+### Leonid
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deep+Learning+engineer;MLOps+%26+LLMOps;NLP+%2F+text2image)](https://git.io/typing-svg)
 
