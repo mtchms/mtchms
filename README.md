@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deep+Learning;MLOps+%26+LLMOps;NLP+%2F+text2image)](https://git.io/typing-svg)
 
-## My AI staff that helps me with routine and allows to achieve maximum efficiency
+## My AI staff that working 24/7 and letting me fully automate routine work:
 
 - 🦞 **openclaw** *(maintainer)* — personal AI coding assistant running locally on my machine
 - 🧠 **deep research agent** *(operator)* — explores docs, compares approaches, and helps me make technical decisions
