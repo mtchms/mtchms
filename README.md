@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deep+Learning;MLOps+%26+LLMOps;NLP+%2F+text2image)](https://git.io/typing-svg)
 
-## stuff i use(d)
+## stuff i use
 
 - 🦞 **openclaw** *(maintainer)* — personal AI coding assistant running locally on my machine
 - 🧠 **deep research agent** *(operator)* — explores docs, compares approaches, and helps me make technical decisions
