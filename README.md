@@ -1,6 +1,7 @@
 ### Leonid
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deep+Learning;MLOps+%26+LLMOps;NLP+%2F+Agents)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Agents+%2F+NLP;MLOps+%26+LLMOps;Deep+Learning)](https://git.io/typing-svg)
+
 
 ## My AI staff that working 24/7 and letting me fully automate routine work:
 
