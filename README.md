@@ -7,7 +7,6 @@
 - 🦞 **openclaw** *(maintainer)* — personal AI coding assistant running locally on my machine
 - 🧠 **deep research agent** *(operator)* — explores docs, compares approaches, and helps me make technical decisions
 - 🛠️ **code mechanic** *(daily use)* — refactors messy logic, fixes weak spots, and keeps the codebase clean
-- 🐛 **bug hunter** *(contributed)* — catches edge cases, silent failures, and weird production behavior
 - ⚙️ **automation worker** *(daily use)* — handles repetitive dev workflows so I can focus on hard problems
 - 🏗️ **architecture copilot** *(operator)* — helps think through systems, services, infra, and scale
 - 🔍 **prompt lab** *(experimental)* — tests prompts, jailbreak resistance, and LLM behavior
