@@ -2,6 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deep+Learning;MLOps+%26+LLMOps;NLP+%2F+text2image)](https://git.io/typing-svg)
 
+## stuff i use(d)
+
+- 🦞 **openclaw** *(maintainer)* — personal AI coding assistant running locally on my machine
+- 🧠 **deep research agent** *(operator)* — explores docs, compares approaches, and helps me make technical decisions
+- 🛠️ **code mechanic** *(daily use)* — refactors messy logic, fixes weak spots, and keeps the codebase clean
+- 🐛 **bug hunter** *(contributed)* — catches edge cases, silent failures, and weird production behavior
+- ⚙️ **automation worker** *(daily use)* — handles repetitive dev workflows so I can focus on hard problems
+- 🏗️ **architecture copilot** *(operator)* — helps think through systems, services, infra, and scale
+- 🔍 **prompt lab** *(experimental)* — tests prompts, jailbreak resistance, and LLM behavior
+- 🚀 **shipping agent** *(daily use)* — turns raw ideas into working prototypes fast
+
 [![Contact me on Telegram](https://img.shields.io/badge/Contact%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@mini_leonid)
 [![Contact me](https://img.shields.io/badge/Contact%20me%20-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LeoZaporoz1059)
 
