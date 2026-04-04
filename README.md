@@ -7,7 +7,7 @@
 
 - 🦞 **openclaw** — personal AI coding assistant running locally on my machine
 - 🧠 **research agent** — explores docs, compares approaches, and helps me make technical decisions
-- 🛠️ **code controler** — refactors messy logic, fixes weak spots, and keeps the codebase clean
+- 🛠️ **code controller** — refactors messy logic, fixes weak spots, and keeps the codebase clean
 - ⚙️ **automation worker** — handles repetitive dev workflows so I can focus on hard problems
 - 🚀 **shipping agent** — turns raw ideas into working prototypes fast
 
