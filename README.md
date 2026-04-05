@@ -5,7 +5,7 @@
 
 ## My AI staff that working 24/7 and letting me fully automate routine work:
 
-- 🦞 **openclaw** — personal AI assistant running locally on my machine
+- 🦞 **openclaw** — personal AI assistant and agent orchestrator running locally on my machine
 - 🧠 **research agent** — explores docs, compares approaches, and helps me make technical decisions
 - 🛠️ **code controller** — refactors messy logic, fixes weak spots, and keeps the codebase clean
 - ⚙️ **automation worker** — handles repetitive dev workflows so I can focus on hard problems
