@@ -7,9 +7,7 @@
 
 - 🦞 **openclaw** — personal AI assistant and agent orchestrator running locally on my machine
 - 🧠 **librarian agent** — explores docs, compares approaches
-- 🛠️ **code controller** — refactors messy logic, fixes weak spots, and keeps the codebase clean
 - ⚙️ **automation worker** — handles repetitive dev workflows so I can focus on hard problems
-- 🚀 **shipping agent** — turns raw ideas into working prototypes fast
 
 [![Contact me on Telegram](https://img.shields.io/badge/Contact%20me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@mini_leonid)
 [![Contact me](https://img.shields.io/badge/Contact%20me%20-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LeoZaporoz1059)
